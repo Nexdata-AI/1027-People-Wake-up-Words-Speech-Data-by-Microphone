@@ -4,7 +4,8 @@
 ## Description
 More than 1,000 recorders read the specified wake-up words, covering slow, normal, and fast three speeds. Audios are recorded in the professional recording studio using the microphone.
 
-For more details, please refer to the link: https://bit.ly/3C98IFm
+For more details, please refer to the link: https://www.nexdata.ai/datasets/1076?source=Github
+
 
 ## Format
 48kHz, 16bit, uncompressed wav, mono channel
